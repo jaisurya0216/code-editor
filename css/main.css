@@ -7,7 +7,6 @@ body {
   padding: 0;
   height: 100vh;
   width: 100vw;
-  background-color:light blue;
 }
 
 main {
@@ -45,7 +44,6 @@ iframe {
 
 .editor-header {
   padding: 0 10px;
-  color:white;
 }
 
 .button-container {
